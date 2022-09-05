@@ -1,2 +1,2 @@
 # postgres
-doc with postgreSQP queries. Will add more as I learn.
+doc with postgreSQL queries. Will add more as I learn.
